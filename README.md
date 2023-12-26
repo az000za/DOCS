@@ -9,18 +9,17 @@
 [az000za onboarding user]()<br>
 [az000za FAQs Frequently Asked Questions]()<br>
 [az000za Business Plan]()<br>
-  [az000za Agenda2024JAN]()<br>
-  [az000za Agenda2024FEB]()<br>
-  [az000za Agenda2024MAR]()<br>
-  [az000za Agenda2024APR]()<br>
-  [az000za Agenda2024MAY]()<br>
-  [az000za Agenda2024JUN]()<br>
-  [az000za Agenda2024JUL]()<br>
-  [az000za Agenda2024AUG]()<br>
-  [az000za Agenda2024SEP]()<br>
-  [az000za Agenda2024OCT]()<br>
-  [az000za Agenda2024NOV]()<br>
-  [az000za Agenda2024DEC]()<br>
-
+[az000za Agenda2024JAN]()<br>
+[az000za Agenda2024FEB]()<br>
+[az000za Agenda2024MAR]()<br>
+[az000za Agenda2024APR]()<br>
+[az000za Agenda2024MAY]()<br>
+[az000za Agenda2024JUN]()<br>
+[az000za Agenda2024JUL]()<br>
+[az000za Agenda2024AUG]()<br>
+[az000za Agenda2024SEP]()<br>
+[az000za Agenda2024OCT]()<br>
+[az000za Agenda2024NOV]()<br>
+[az000za Agenda2024DEC]()<br>
 
 [az000za tasks]()<br>
