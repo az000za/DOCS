@@ -9,7 +9,7 @@
 [az000za onboarding contributor]()<br>
 [az000za onboarding user]()<br>
 [az000za FAQs Frequently Asked Questions]()<br>
-[az000za Business Plan]()<br>
+[az000za Business Plan](https://github.com/az000za/DOCS/blob/DEVELOPMENT/businessplan.txt)<br>
 [az000za Agenda2024JAN]()<br>
 [az000za Agenda2024FEB]()<br>
 [az000za Agenda2024MAR]()<br>
