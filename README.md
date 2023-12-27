@@ -2,7 +2,7 @@
 [az000za what is az000za](https://github.com/az000za/DOCS/blob/DEVELOPMENT/what-is-az000za.MD)<br>
 [az000za mission statement](https://github.com/az000za/DOCS/blob/DEVELOPMENT/mission-statement.txt)<br>
 [az000za policy](https://github.com/az000za/DOCS/blob/DEVELOPMENT/policy.txt)<br>
-[az000za terms of service]()<br>
+[az000za terms of service](https://github.com/az000za/DOCS/blob/DEVELOPMENT/termsofsservice.txt)<br>
 [az000za terms of employement]()<br>
 [az000za NDA Non Disclosure Agreement]()<br>
 [az000za onboarding employee]()<br>
