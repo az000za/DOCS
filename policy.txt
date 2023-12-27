@@ -17,8 +17,9 @@
 1.b.4) allow strategic coop development instead of being work horses
 
 2) Work Commitements
-2.a) Use AZ000ZA APP for Work
-2.a) Report Status End of Everyday
-2.b) Project Roles work whenever just meet checkmark deadlines.
-2.c) Attend Scheduled Meetings
-2.d) Work Collaboratively On Assignments
+2.a) Use AZ000ZA APP for Work, report feature demands
+2.b) Report Status End of Everyday
+2.c) Project Roles work whenever just meet checkmark deadlines.
+2.d) Attend Scheduled Meetings
+2.e) Work Collaboratively On Assignments
+2.f) Pair Programming Mandatory
