@@ -23,8 +23,3 @@
 2.d) Attend Scheduled Meetings
 2.e) Work Collaboratively On Assignments
 2.f) Pair Programming Mandatory
-
-3) REMOTE WORK
-3.a) Work is always remote.
-3.b) There will never be a company office.
-3.c) Go live your dreams and travel the world.
