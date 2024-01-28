@@ -5,12 +5,12 @@
 0.b) Or just post on "anonymous" chat but context clues make anomity a joke.
 
 1) COLLABORATE on EVERYTHING
-1.a) Document Everything Somehow
+1.a) Document Everything by using the APP.
 1.a.1) text
 1.a.2) audio
 1.a.3) image
 1.a.4) video
-1.b) Pair Programming ... Pair Working
+1.b) Pair Programming ... CoWorking
 1.b.1) 2 minds better than 1
 1.b.2) quality control
 1.b.3) allows team building and professional growth
